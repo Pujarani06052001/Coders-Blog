@@ -1,3 +1,5 @@
+import { ReactNode } from 'react';
+
 export interface ICategory{
     Slug: string | string[] | undefined;
     data: ReactNode;
