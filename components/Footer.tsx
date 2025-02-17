@@ -14,7 +14,7 @@ const Footer = () => {
                             alt="Footer Logo"
                         />
                         <span className="ml-3 text-md font-semibold">
-                            Coder&apos;s Blog <span className="text-gray-500 text-sm"> |  @2025 coder's blog</span>
+                            Coder&apos;s Blog <span className="text-gray-500 text-sm"> |  @2025 coder&apos;s blog</span>
                         </span>
                     </a>
                 </div>
